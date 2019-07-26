@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Amy Westcott"]
   spec.email         = ["amy.westcott@yahoo.com"]
 
-  spec.summary       = %q{Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{Write a longer description or delete this line.}
+  spec.summary       = %q{This application tells you about climbing route location, grade and name.}
+  spec.description   = %q{This application allows you to search through the top 100 climbing routes in the U.S. It can return a route based grade, location, or name.}
   spec.license       = "MIT"
 
   
