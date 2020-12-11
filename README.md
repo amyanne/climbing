@@ -18,9 +18,7 @@ Or install it yourself as:
 
     $ gem install climbing
 
-## Usage
 
-TODO: Write usage instructions here
 
 ## Development
 
